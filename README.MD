@@ -15,5 +15,5 @@ O conteúdo aborda os pilares matemáticos da ANOVA:
 ## 3. Exemplo
 O notebook inclui a resolução de um exemplo prático extraído diretamente da literatura de referência, demonstrando a aplicação dos conceitos teóricos e a validação dos resultados via Python.
 
-Referências
+## Referências
 MAGALHÃES, M. N.; LIMA, A. C. P. Noções de Probabilidade e Estatística. 7. ed. São Paulo: Edusp, 2015.
